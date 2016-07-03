@@ -3,5 +3,5 @@
 
 
 int main() {
-  std::cout << "this is fix-b branch" << std::endl;
+  std::cout << "hoge" << std::endl;
 }
